@@ -1,2 +1,4 @@
 linux/386
+windows/386
+darwin/386
 darwin/amd64
